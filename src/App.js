@@ -27,7 +27,7 @@ function App() {
       <Route path="/jobs" element={<Jobs />} />
       <Route path="/dev" element={<Hashnode />} />
       </Routes> ):(
-     <h1 className="text-2xl text-center mt-6">Please Login first 😪!</h1>
+     ""
      )
       }
         {/* <Footer /> */}
