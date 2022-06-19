@@ -27,6 +27,7 @@ body{
     }
     .home-text{
         width: fit-content;
+        font-size : 36px;
     }
     .home-img{
         width: fit-content;

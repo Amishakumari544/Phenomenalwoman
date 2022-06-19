@@ -7,7 +7,7 @@ function Home() {
         {/* text */}
        
         <div class="flex-1 w-64 py-12 md:py-28 px-16 home-text">
-        <h1 className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-pink-600 text-7xl  font-bold">Welcome sisters,<br />start your searching<br /> at one place.
+        <h1 className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-pink-600 md:text-7xl  font-bold">Welcome sisters,<br />start your searching<br /> at one place.
          </h1>
         
         </div>
