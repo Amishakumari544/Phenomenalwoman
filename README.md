@@ -23,8 +23,6 @@ Phenomenal Women is based on the idea to provide awareness about the programs ha
   ![image](https://user-images.githubusercontent.com/49230384/174477137-7906d7e3-919c-42a5-a340-2d79c585de84.png)
 
 ![image](https://user-images.githubusercontent.com/49230384/174480261-0c449ce8-9de7-40cf-b539-db4283f02f89.png)
-![image](https://user-images.githubusercontent.com/49230384/174480292-660cd618-840b-4929-8653-0c0be6c2d491.png)
-![image](https://user-images.githubusercontent.com/49230384/174480334-dd63b4f2-7256-4f3e-ac6e-60e59ec79ddb.png)
 
   ---
 
