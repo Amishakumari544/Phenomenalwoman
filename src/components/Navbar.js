@@ -54,6 +54,7 @@ function Navbar() {
             <ul class="flex text-lg text-black flex-col mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium">
               <Link to="/org">Organizations</Link>
               <Link to="/platforms">Coding platforms</Link>
+              <Link to="/jobs">Internships</Link>
               <Link to="/dev">Articles</Link>
               {isAuthenticated === true ? <Profile /> : <LoginButton />}
               {isAuthenticated === true ? <LogoutButton /> : ""}

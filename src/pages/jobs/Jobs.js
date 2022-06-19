@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 
-function jobs() {
+function CodingPlatform() {
   return (
     <div>
       <section class="text-gray-600 body-font">
@@ -140,4 +140,4 @@ function jobs() {
   );
 }
 
-export default jobs;
+export default CodingPlatform;
