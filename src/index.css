@@ -1,0 +1,10 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+
+    /* global 92%+ browsers support */
+    background:radial-gradient(circle at 50% 50%,#fcfefe 7%, #fcfefe 15%,#e3f6f5 89%);
+}
